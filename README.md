@@ -12,6 +12,7 @@ python -m edgar13f.main --manager "Berkshire Hathaway" --out data/berkshire.csv 
 python -m edgar13f.main --cik 0001067983 --out data/berkshire.csv --summary data/summary.json
 ```
 
+# Trial run 
 python -m edgar13f.main --cik 0001649339 --out data/scion.csv --summary data/summary.json
 
 
