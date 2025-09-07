@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<informationTable xmlns="http://www.sec.gov/edgar/document/thirteenf/informationtable">
+  <infoTable>
+    <nameOfIssuer>Example Corp A</nameOfIssuer>
+    <cusip>123456789</cusip>
+    <value>15000</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>1000000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <putCall></putCall>
+    <investmentDiscretion>Sole</investmentDiscretion>
+    <votingAuthority>
+      <Sole>800000</Sole>
+      <Shared>100000</Shared>
+      <None>100000</None>
+    </votingAuthority>
+  </infoTable>
+  <infoTable>
+    <nameOfIssuer>Example Corp B</nameOfIssuer>
+    <cusip>987654321</cusip>
+    <value>5000</value>
+    <shrsOrPrnAmt>
+      <sshPrnamt>200000</sshPrnamt>
+      <sshPrnamtType>SH</sshPrnamtType>
+    </shrsOrPrnAmt>
+    <investmentDiscretion>Shared</investmentDiscretion>
+    <votingAuthority>
+      <Sole>100000</Sole>
+      <Shared>50000</Shared>
+      <None>50000</None>
+    </votingAuthority>
+  </infoTable>
+</informationTable>

@@ -1,0 +1,60 @@
+{
+  "num_positions": 15,
+  "sum_value_usd_b": 578.337,
+  "top_10_concentration": 0.9237,
+  "top_positions": [
+    {
+      "issuer": "UNITEDHEALTH GROUP INC",
+      "value_b": 109.189,
+      "weight": 0.1888
+    },
+    {
+      "issuer": "REGENERON PHARMACEUTICALS",
+      "value_b": 105.0,
+      "weight": 0.1816
+    },
+    {
+      "issuer": "LULULEMON ATHLETICA INC",
+      "value_b": 95.032,
+      "weight": 0.1643
+    },
+    {
+      "issuer": "META PLATFORMS INC",
+      "value_b": 73.809,
+      "weight": 0.1276
+    },
+    {
+      "issuer": "LAUDER ESTEE COS INC",
+      "value_b": 40.4,
+      "weight": 0.0699
+    },
+    {
+      "issuer": "JD.COM INC",
+      "value_b": 32.64,
+      "weight": 0.0564
+    },
+    {
+      "issuer": "ALIBABA GROUP HLDG LTD",
+      "value_b": 28.352,
+      "weight": 0.049
+    },
+    {
+      "issuer": "ASML HOLDING N V",
+      "value_b": 20.035,
+      "weight": 0.0346
+    },
+    {
+      "issuer": "V F CORP",
+      "value_b": 17.625,
+      "weight": 0.0305
+    },
+    {
+      "issuer": "LAUDER ESTEE COS INC",
+      "value_b": 12.12,
+      "weight": 0.021
+    }
+  ],
+  "cik": "0001649339",
+  "manager_name": "Scion Asset Management, LLC",
+  "period_end": "2025-06-30"
+}
